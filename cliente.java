@@ -55,3 +55,4 @@ class colaManual {
         return atendido;
     }
 }
+
