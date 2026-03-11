@@ -1,5 +1,5 @@
 
-class Cliente {
+public class Cliente {
     int id;
     String tipo;
     int tiempoLlegada;
