@@ -1,5 +1,7 @@
 import java.util.Random;
+import java.util.PriorityQueue;
 
+public class Principal{
 public static void main(String[] args) {
     colaManual filaNormal = new colaManual();
 
@@ -66,4 +68,5 @@ public static void main(String[] args) {
         System.out.println("No se atendió a nadie.");
     }
 
+}
 }
