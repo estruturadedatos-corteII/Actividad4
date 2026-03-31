@@ -31,3 +31,4 @@ De esos clientes, el 20% son "urgentes" y el 80% son "normales".
 El cajero siempre revisa primero la filaVip. Solo si la fila VIP está vacía, atiende a alguien de la filaNormal.
 
 Al final, el programa calcula el tiempo promedio de espera de todos los clientes atendidos.
+https://drive.google.com/file/d/1rSUcvkSuxY7CGvI6VHDUcwiC6I_XfjzY/view?usp=drive_link
